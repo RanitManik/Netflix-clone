@@ -1,5 +1,9 @@
 /* screen 1 */
 @media screen and (min-width: 1920px) {
+    .first-section {
+        height: max(105vh, 900px);
+    }
+
     h1 {
         font-size: 4rem;
         font-weight: 900;
@@ -43,6 +47,10 @@
 
 /* screen 2 */
 @media screen and (min-width: 1280px) and (max-width: 1920px) {
+    .first-section {
+        height: max(105vh, 900px);
+    }
+
     h1 {
         font-size: 3.5rem;
         font-weight: 900;
@@ -88,7 +96,7 @@
 @media screen and (min-width: 960px) and (max-width: 1280px) {
 
     .first-section {
-        height: 60vh;
+        height: 105vh;
     }
 
     h1 {
@@ -145,7 +153,7 @@
 @media screen and (min-width: 600px) and (max-width: 960px) {
 
     .first-section {
-        height: 60vh;
+        height: 100vh;
     }
 
     h1 {
