@@ -14,6 +14,14 @@
         font-weight: 700;
     }
 
+    .question h3 {
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: var(--text-color);
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
     .promo-wrapper {
         padding-left: var(--primary-inline-padding-screen-1);
     }
@@ -59,6 +67,14 @@
     h2 {
         font-size: 2rem;
         font-weight: 500;
+    }
+
+    .question h3 {
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: var(--text-color);
+        margin-bottom: 0;
+        margin-top: 0;
     }
 
     .promo-wrapper {
@@ -109,6 +125,14 @@
         font-weight: 500;
     }
 
+    .question h3 {
+        font-size: 1.2rem;
+        font-weight: 500;
+        color: var(--text-color);
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
     .promo-wrapper {
         padding-left: var(--primary-inline-padding-screen-3);
     }
@@ -147,6 +171,10 @@
     .footer-list-items {
         width: 33%;
     }
+
+    .faq-container {
+        padding: 1.2rem;
+    }
 }
 
 /* screen 4 */
@@ -164,6 +192,14 @@
     h2 {
         font-size: 1.125rem;
         font-weight: 500;
+    }
+
+    .question h3 {
+        font-size: 1.1rem;
+        font-weight: 500;
+        color: var(--text-color);
+        margin-bottom: 0;
+        margin-top: 0;
     }
 
     .email-form-action {
@@ -214,6 +250,7 @@
     .faq-container {
         margin-right: 0;
         width: 100%;
+        padding: 1.2rem;
     }
 
     .fifth-section .promo-content {
@@ -239,6 +276,14 @@
     h2 {
         font-size: 1.125rem;
         font-weight: 500;
+    }
+
+    .question h3 {
+        font-size: 1rem;
+        font-weight: 500;
+        color: var(--text-color);
+        margin-bottom: 0;
+        margin-top: 0;
     }
 
     .email-form-action {
@@ -307,6 +352,7 @@
     .faq-container {
         margin-right: 0;
         width: 100%;
+        padding: 1rem;
     }
 
     .fifth-section .promo-content {
