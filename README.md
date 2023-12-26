@@ -9,7 +9,7 @@
 
 ![image](https://github.com/RanitManik/Netflix-clone/assets/138437760/5b8a701f-148d-4d13-a994-765916673754)
 
----
+
 
 ## About This Project
 
@@ -19,7 +19,7 @@ Whether you're a movie enthusiast or a developer looking to explore front-end de
 
 Feel free to explore and contribute to enhance the project further!
 
----
+
 
 ## Technologies Utilized
 
@@ -29,7 +29,7 @@ Feel free to explore and contribute to enhance the project further!
 - HTML5
 - CSS3
   
----
+
 
 ## Getting Started
 
