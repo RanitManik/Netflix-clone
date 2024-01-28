@@ -67,12 +67,10 @@ _To get started with this project, follow these steps:_
 
 ## Contact
 
-- Name - [Ranit Manik](https://github.com/RanitManik)
-- Email - ranitmanikofficial@outlook.com
-- Project Link - [https://github.com/RanitManik/Netflix-clone](https://github.com/RanitManik/Netflix-clone)
+_Connect with me through various portals :_
 
----
-
-<p align="center"> If you like my work, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
-
-<p align="center"><a href="https://www.buymeacoffee.com/ranitmanik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+- [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /> Email](mailto:ranitmanik.dev@gmail.com)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /> LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
