@@ -9,7 +9,12 @@
 
 ![image](https://github.com/RanitManik/Netflix-clone/assets/138437760/5b8a701f-148d-4d13-a994-765916673754)
 
-
+## Table of Contents
+- [About This Project](#about-this-project)
+- [Technologies Utilized](#technologies-utilized)
+- [Getting Started](#getting-started)
+- [Contact](#contact)
+- [Acknowledgment](#acknowledgment)
 
 ## About This Project
 
@@ -17,10 +22,13 @@ This project is a front-end clone of the popular streaming platform, Netflix. It
 
 Whether you're a movie enthusiast or a developer looking to explore front-end design, this project offers a hands-on experience in building a modern web application.
 
-Feel free to explore and contribute to enhance the project further!
+_Feel free to explore and contribute to enhance the project further!_
 
-
-
+> [!IMPORTANT]
+>
+> Please note that the Netflix Front-End Clone provided here is not suitable for hosting on the internet due to its nature as a clone of Netflix. However, you can get a quick preview by visiting [this Codepen link](https://codepen.io/RANIT-MANIK/full/ZEPErjR), which is compatible with all devices.
+>
+> For an unobstructed view of the actual website without any watermark, you can access it [here](https://cdpn.io/pen/debug/ZEPErjR). Please be aware that this link is optimized for desktop devices.
 ## Technologies Utilized
 
 ![icons8-html-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/c594a0ea-6814-49d5-be42-42ed554d6914)
@@ -74,3 +82,11 @@ _Connect with me through various portals :_
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
+
+## Acknowledgment
+
+Special thanks to the open-source community for fostering an environment of learning and innovation. Your valuable feedback and contributions are highly appreciated.
+
+If you find this project interesting or have suggestions for improvement, feel free to reach out and join the journey of making this Netflix clone even more impressive.
+
+Happy coding!
