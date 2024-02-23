@@ -24,7 +24,7 @@ Whether you're a movie enthusiast or a developer looking to explore front-end de
 
 _Feel free to explore and contribute to enhance the project further!_
 
-> [!IMPORTANT]
+> [!NOTE]
 >
 > Please note that the Netflix Front-End Clone provided here is not suitable for hosting on the internet due to its nature as a clone of Netflix. However, you can get a quick preview by visiting [this Codepen link](https://codepen.io/RANIT-MANIK/full/ZEPErjR), which is compatible with all devices.
 >
@@ -36,8 +36,6 @@ _Feel free to explore and contribute to enhance the project further!_
 
 - HTML5
 - CSS3
-  
-
 
 ## Getting Started
 
