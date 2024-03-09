@@ -12,7 +12,6 @@
 ## Table of Contents
 - [About This Project](#about-this-project)
 - [Technologies Utilized](#technologies-utilized)
-- [Getting Started](#getting-started)
 - [Contact](#contact)
 - [Acknowledgment](#acknowledgment)
 
@@ -24,52 +23,14 @@ Whether you're a movie enthusiast or a developer looking to explore front-end de
 
 _Feel free to explore and contribute to enhance the project further!_
 
-> [!NOTE]
->
-> Please note that the Netflix Front-End Clone provided here is not suitable for hosting on the internet due to its nature as a clone of Netflix. However, you can get a quick preview by visiting [this Codepen link](https://codepen.io/RANIT-MANIK/full/ZEPErjR), which is compatible with all devices.
->
-> For an unobstructed view of the actual website without any watermark, you can access it [here](https://cdpn.io/pen/debug/ZEPErjR). Please be aware that this link is optimized for desktop devices.
 ## Technologies Utilized
 
-![icons8-html-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/c594a0ea-6814-49d5-be42-42ed554d6914)
-![icons8-css-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/8e945635-63f1-4770-acba-ff21584f1b05)
-
-- HTML5
-- CSS3
-
-## Getting Started
-
-_To get started with this project, follow these steps:_
-
-1. **Clone** the repository:
-
-   ```bash
-   git clone https://github.com/RanitManik/Netflix-clone.git
-   ```
-
-2. **Add This repo as Remote**:
-
-   ```bash
-   git remote add origin https://github.com/RanitManik/Netflix-clone.git
-   ```
-
-3. **Create a New Branch** for your feature or bugfix:
-
-   ```bash
-   git checkout -b feature/{your_feature} or bugfix/{issue_number}
-   ```
-
-4. **Commit** your changes:
-
-   ```bash
-   git commit -m "Your meaningful commit message here"
-   ```
-
-5. **Push** your changes to the repository:
-
-   ```bash
-   git push origin feature/{your_feature} or bugfix/{issue_number}
-   ```
+<div>
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+</div>
 
 ## Contact
 
